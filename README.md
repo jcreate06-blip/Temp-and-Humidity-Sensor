@@ -27,6 +27,6 @@ Arduino UNO project that reads temperature and humidity from a DHT11 sensors and
 - DHTlib // by Rob Tillaart
 
 #How To Use
-- Wire as shown in the image, you can change where the pins connect to where but you will have to change your code.
+- Wire as shown in the Temp_and_Humidity_wiring.png , you can change where the pins connect to where but you will have to change your code.
 - Type up the code, verify and upload in the Arduino IDE.
 - Press the button to switch between Celsius and Fahrenheit
